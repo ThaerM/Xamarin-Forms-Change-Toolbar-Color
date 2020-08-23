@@ -10,7 +10,7 @@ namespace TestScroll
             InitializeComponent();
             if (Application.Current.MainPage is NavigationPage result)
             {
-                result.BarBackgroundColor = Color.FromRgba(0, 0, 0, 0);
+                result.BarBackgroundColor = Color.Transparent;
             }
         }
 
