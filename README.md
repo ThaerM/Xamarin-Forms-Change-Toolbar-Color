@@ -1,7 +1,7 @@
 # Xamarin Forms Change Toolbar Color 
 Change toolbar color from Transparent to any color 
 
-Refernce from [CrossGeeks](https://github.com/CrossGeeks/Forms-TransparentNavigationBar/tree/master/TransparentNavBarXForms)
+Reference from [CrossGeeks](https://github.com/CrossGeeks/Forms-TransparentNavigationBar/tree/master/TransparentNavBarXForms)
 
  <img src="art/untitled.gif"  height="480"> 
 
