@@ -5,7 +5,7 @@ Reference from [CrossGeeks](https://github.com/CrossGeeks/Forms-TransparentNavig
 
  <img src="art/untitled.gif"  height="480"> 
 
-1) Create in Xamairn From CustomNavigationPage 
+1) Create CustomNavigationPage on Xamarin
 - CustomNavigationPage.Xaml file
 ``` 
 <?xml version="1.0" encoding="utf-8" ?>
