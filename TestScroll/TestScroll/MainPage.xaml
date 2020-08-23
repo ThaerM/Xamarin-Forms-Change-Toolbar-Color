@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="TestScroll.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Test Application"
+    Padding="0,45,0,0">
+    <ScrollView Scrolled="ScrollView_Scrolled">
+        <StackLayout
+            HorizontalOptions="CenterAndExpand"
+            Spacing="10"
+            VerticalOptions="FillAndExpand">
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Welcome to Xamarin.Forms!" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
