@@ -104,7 +104,7 @@ namespace TestScroll.Droid
             {
                 if (Application.Current.MainPage is NavigationPage result)
                 {
-                    result.BarBackgroundColor = Color.FromRgba(0, 0, 0, (e.ScrollY - 100) / 100);
+                    result.BarBackgroundColor = Color.FromRgba(0, 0, 0, (e.ScrollY /100));
                     result.BarTextColor = Color.White;
                 }
             }
